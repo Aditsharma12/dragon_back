@@ -1,0 +1,17 @@
+# Windows build artifacts
+build/
+*.exe
+*.obj
+*.o
+
+# MSYS2 local build script temp files
+*.sh
+
+# VS Code
+.vscode/
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
